@@ -9,3 +9,4 @@
 ## What I've learned so far
 - Linux basics: টার্মিনালে ফোল্ডার আর ফাইল নিয়ে কাজ করা (ls, cd, mkdir, cp)
 - Log ফাইল নিয়ে কাজ: wc দিয়ে লাইন গোনা, grep দিয়ে খোঁজা, আর cut, sort, uniq -c দিয়ে ডেটা গুছিয়ে গুনে দেখা
+- Git and GitHub: commits, branches, push, pull requests
